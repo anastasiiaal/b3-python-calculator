@@ -1,3 +1,5 @@
+import math
+
 # 1. Addition basique
 def addition(a, b):
     pass
